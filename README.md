@@ -1,4 +1,7 @@
 # rogergamageo.github.io
+
+## Introduction
+
 This is my personal website
 
 My name is Rogerio. Hello!
